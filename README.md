@@ -1,3 +1,5 @@
+Wykorzystanie zastosowania AI do przykładowego CV
+
 Imię i Nazwisko: Damian Staśkiewicz
 
 Kontakt: damians13041996@gmail.com
